@@ -18,10 +18,10 @@ How to Use
 <li>Cat Lists: Discover what cats love and hate by checking out the lists provided.</li>
 <li>Cat Form: Fill out the form to submit details about your cat. Select whether it's an indoor or outdoor cat, and choose its personality traits. Don't forget to provide a URL for your cat's photo!</li>
 </ul>
-Contributing
-Contributions are welcome! If you have any suggestions, feature requests, or find any issues, please feel free to open an issue or submit a pull request.
+<b>Contributing:</b>
+<p>Contributions are welcome! If you have any suggestions, feature requests, or find any issues, please feel free to open an issue or submit a pull request.</p>
 
-About
-CatPhotoApp is a project by freeCodeCamp.org, a community-driven platform that offers free coding education.
+**About**
+<p>CatPhotoApp is a project by freeCodeCamp.org, a community-driven platform that offers free coding education.</p>
 
-Enjoy exploring CatPhotoApp, and don't forget to share your adorable cat photos with us! 🐾
+Enjoy exploring CatPhotoApp, and don't forget to create one for your adorable cat with its photos! 🐾
